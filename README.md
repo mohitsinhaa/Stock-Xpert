@@ -1,5 +1,5 @@
 # StockXpert 
-A MERN stack project that replicates the basic functionality and design of the Zerodha trading platform. This app includes features like a dashboard with wishlist, buy and sell functionality, order management, holdings, positions, and charts for detailed views.
+A MERN stack project that replicates the basic functionality and design of the smart trading platform which is inspired by Zerodha. This app includes features like a dashboard with wishlist, buy and sell functionality, order management, holdings, positions, and charts for detailed views.
 
 ![Screenshot (36)](https://github.com/user-attachments/assets/723bdb29-aced-4cc4-9e40-bb8f69c0521a)
 ![Screenshot (37)](https://github.com/user-attachments/assets/892f2caa-c34b-4def-abab-8636c18d6b64)
